@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "105360670411",
+    "firebase_url": "https://refuse-risk-app-default-rtdb.firebaseio.com",
+    "project_id": "refuse-risk-app",
+    "storage_bucket": "refuse-risk-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105360670411:android:3d43ed36d7a2b6b5a8654e",
+        "android_client_info": {
+          "package_name": "com.example.application_refuse_risk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105360670411-q9n7c021o17di5pe5plhtlro6u923nf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2S_t1xrTysNBPTMWskl1NHIt7HOCHmE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105360670411-q9n7c021o17di5pe5plhtlro6u923nf2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "105360670411-ckn75fmjqp42istinbuqk0895v5rbm3j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.applicationRefuseRisk.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
